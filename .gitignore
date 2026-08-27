@@ -1,0 +1,44 @@
+# Python environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code and operating system
+.vscode/
+.DS_Store
+
+# NWB data: never upload to GitHub
+*.nwb
+*.NWB
+*.nwb.*
+**/*.nwb
+**/*.NWB
+
+# All downloaded and generated data
+data/**
+!data/raw/
+!data/raw/.gitkeep
+!data/processed/
+!data/processed/.gitkeep
+!data/README.md
+
+# Spike-sorting temporary results
+sorting_output/
+sorter_output/
+waveforms/
+cache/
+tmp/
+temp/
+
+# Logs
+*.log
