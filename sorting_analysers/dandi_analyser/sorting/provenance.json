@@ -1,0 +1,20 @@
+{
+    "class": "spikeinterface.extractors.nwbextractors.NwbSortingExtractor",
+    "module": "spikeinterface",
+    "version": "0.104.8",
+    "kwargs": {
+        "file_path": "../../data/raw/sub-KM131_ses-20180116T184757_behavior+ecephys+image.nwb",
+        "electrical_series_path": "acquisition/extracellular array recording",
+        "sampling_frequency": null,
+        "samples_for_rate_estimation": 1000,
+        "cache": false,
+        "stream_mode": null,
+        "stream_cache_path": null,
+        "storage_options": null,
+        "load_unit_properties": true,
+        "t_start": 53.501383041213444
+    },
+    "annotations": {},
+    "properties": {},
+    "relative_paths": true
+}
