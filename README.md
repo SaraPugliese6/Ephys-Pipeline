@@ -1,6 +1,4 @@
 
-# Ephys-Pipeline
-=======
 # Electrophysiology Analysis Pipeline
 
 ## Project purpose
