@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 # Ephys-Pipeline
 =======
-# Extracellular Electrophysiology Analysis Pipeline
+# Electrophysiology Analysis Pipeline
 
 ## Project purpose
 
